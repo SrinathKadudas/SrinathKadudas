@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrinathKadudas
 - 🌱 I’m currently learning datascience
-- 💞️ I’m looking to collaborate on python and MySql
+- 💞️ I’m looking to collaborate on python, MySql and PowerBi
 - 📫 How to reach me ...
 
 <!---
