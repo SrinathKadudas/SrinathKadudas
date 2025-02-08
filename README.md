@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Srinath kadudas
 
-## A passionate Data Analyst
+## A passionate Data Analyst..!
 ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66632f37312f36332f66633731363335633766316230396564333034313366353962623734393538322e676966](https://github.com/user-attachments/assets/3ed88ed1-bf97-44e6-807f-a13e306c10c5)- 👋 Hi, I’m @SrinathKadudas
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python, powerbi and mysql
