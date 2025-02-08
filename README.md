@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on small or large-scale organizations to make sense of their data.
 - 📫 How to reach me-- k.srinath09@gmail.com  
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 💬 Ask me about Microsoft Excel, SQL, Power BI, Business decisions, and recommendations.
 <!---
 SrinathKadudas/SrinathKadudas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
